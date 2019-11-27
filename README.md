@@ -1,6 +1,6 @@
 # conflictTest
 
 bbb
-#pc冲突测试
+# pc冲突测试
 aaa
-###测试一下冲突
+### 测试一下冲突
